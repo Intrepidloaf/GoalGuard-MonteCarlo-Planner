@@ -1,0 +1,5 @@
+# name, targetWeight, annualReturnPct, annualVolPct
+US_Stocks,0.60,8.0,15.0
+Intl_Stocks,0.20,7.0,18.0
+Bonds,0.15,3.0,6.0
+Cash,0.05,1.5,1.0

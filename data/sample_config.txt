@@ -1,0 +1,10 @@
+initial_balance=1000.0
+contribution=100.0
+contrib_frequency=12         # contributions per year (monthly)
+target_goal=50000.0
+years=10
+trials=5000
+steps_per_year=12
+rebalance=monthly            # options: none, monthly, quarterly, yearly
+rebalance_threshold_pct=0.02 # (not used in this simple implementation)
+withdrawal_order=tax_aware   # placeholder: FIFO or tax_aware
